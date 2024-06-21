@@ -1,1 +1,11 @@
-yidadaa/chatgpt-next-web:latest
+supabase/studio
+kong
+supabase/gotrue
+postgrest/postgrest
+supabase/storage-api
+darthsim/imgproxy
+supabase/postgres-meta
+supabase/edge-runtime
+supabase/logflare
+supabase/postgres
+timberio/vector:0.28.1-alpine
