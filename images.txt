@@ -1,1 +1,3 @@
-node:18-alpine
+sharelatex/sharelatex
+mongo:5.0
+redis:6.2
