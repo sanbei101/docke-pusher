@@ -1,3 +1,1 @@
-sharelatex/sharelatex
-mongo:5.0
-redis:6.2
+supabase/realtime:v2.29.15
