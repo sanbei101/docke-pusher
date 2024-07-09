@@ -1,1 +1,1 @@
-supabase/realtime:v2.29.15
+bitnami/postgresql:latest
