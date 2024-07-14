@@ -1,1 +1,1 @@
-bitnami/postgresql:latest
+whyour/qinglong:lates
