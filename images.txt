@@ -1,1 +1,5 @@
-whyour/qinglong:latest
+ghcr.io/ifyun/cloud-oj:gateway
+ghcr.io/ifyun/cloud-oj:core
+ghcr.io/ifyun/cloud-oj:judge
+ghcr.io/ifyun/cloud-oj:web
+ghcr.io/ifyun/cloud-oj:mariadb
