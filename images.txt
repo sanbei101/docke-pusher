@@ -1,1 +1,1 @@
-kubeflownotebooks/centraldashboard:latest
+kubeflownotebookswg/centraldashboard:latest
