@@ -1,1 +1,1 @@
-sanbei101/chatgpt-next-web:latest
+kubeflownotebooks/centraldashboard:latest
